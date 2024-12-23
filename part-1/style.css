@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.continer{
+    /* empty */
+}
+.box-icon{
+    text-align: center;
+}
+.icon{
+    width: 60px;
+}
+.text{
+    font-family: sans-serif;
+    font-size: 22px;
+}
